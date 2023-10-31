@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="icon" href="./assets/images/favicon.ico" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <meta name="theme-color" content="#ffc400" />
+        <meta name="description" content="Experienced Web Developer and Full Stack Developer (PHP) with a demonstrated history of working in and web development industry." />
+        <link rel="apple-touch-icon" href="./assets/images/apple-touch-icon.png" />       
+        <title>SK. Full-stack Developer | PHP | Laravel | JavaScript</title>
+        <link href="./assets/css/main.css" rel="stylesheet" />
+    </head>
+    <body>        
+        <div id="root">
+            <div class="container-fluid" id="intro">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <main>
+                                <div>
+                                    <span>Hi! I'm</span>
+                                    <h1 class="py-3">
+                                        Sivaram
+                                        Kathiresan
+                                    </h1>
+                                    <span>
+                                        Full-stack web developer
+                                    </span>
+                                </div>
+                                <!-- <img src="./assets/images/sivaramsiva.png" alt="sivaram" /> -->
+                            </main>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <section id="about">
+                            <div class="tag">about</div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-11 offset-lg-1">
+                                        <p>
+                                        Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in PHP, CodeIgniter, Laravel,Wordpress, HTML,Javascript,Jquery and AJAX etc.,
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="closing tag">about</div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <section id="tech">
+                            <div class="tag">technology</div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-11 offset-lg-1">
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/php.png" alt="PHP" />
+                                                <h4>PHP</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 90%;"></div></div>
+                                                90%
+                                            </div>
+                                        </div>
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/laravel.png" alt="Laravel" />
+                                                <h4>Laravel</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 85%;"></div></div>
+                                                85%
+                                            </div>
+                                        </div>
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/codeigniter.png" alt="Codeigniter" />
+                                                <h4>Codeigniter</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 85%;"></div></div>
+                                                85%
+                                            </div>
+                                        </div>
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/wordpress.png" alt="Wordpress" />
+                                                <h4>Wordpress</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 90%;"></div></div>
+                                                90%
+                                            </div>
+                                        </div>
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/jquery.png" alt="Jquery" />
+                                                <h4>Jquery</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 85%;"></div></div>
+                                                85%
+                                            </div>
+                                        </div>
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/mysql.png" alt="MySql" />
+                                                <h4>MySql</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 85%;"></div></div>
+                                                85%
+                                            </div>
+                                        </div>
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/html5.png" alt="HTML5" />
+                                                <h4>HTML5</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 95%;"></div></div>
+                                                95%
+                                            </div>
+                                        </div>
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/css3.png" alt="CSS3" />
+                                                <h4>CSS3</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 60%;"></div></div>
+                                                60%
+                                            </div>
+                                        </div>
+                                        <div class="item row">
+                                            <div class="col-md-3">
+                                                <img src="./assets/images/javascript.png" alt="JavaScript" />
+                                                <h4>JavaScript</h4>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div class="prog-bar"><div class="prog" style="width: 80%;"></div></div>
+                                                80%
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="closing tag">technology</div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <section id="github">
+                            <div class="tag">github</div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-11 offset-lg-1">
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-6">
+                                                <a href="https://github.com/sivaramsiva/sivaramsiva.github.io" target="_blank" rel="noopener noreferrer">
+                                                    <div class="item">
+                                                        <span class="name">sivaramsiva.github.io</span>
+                                                        <p>A simple PHP portfolio website.</p>
+                                                        <div class="footer"><span class="lang">PHP</span>
+                                                        <!-- <img src="./assets/images/avatar.png" alt="avatar" /> -->
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="closing tag">github</div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <section id="contact">
+                            <div class="tag">contact</div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-11 offset-lg-1">
+                                        <a href="mailto:ksivaram1997@gmail.com" target="_blank" rel="noopener noreferrer">ksivaram1997@gmail.com</a>
+                                        <a href="https://www.linkedin.com/in/sivaram-k/" target="_blank" rel="noopener noreferrer">linkedin.com/in/sivaram-k/</a>
+                                        <a href="https://github.com/sivaramsiva/" target="_blank" rel="noopener noreferrer">github.com/sivaramsiva/</a>
+                                        <a href="./assets/downloads/Sivaram-resume-2023.pdf" download="" class="button">Download CV</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="closing tag">contact</div>
+                        </section>
+                        <section><p class="copy">© Copyrights - Sivaram Kathiresan, <?php echo date('Y'); ?></p></section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
